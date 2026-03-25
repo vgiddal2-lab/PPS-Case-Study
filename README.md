@@ -2,6 +2,13 @@
 
 For my Programming for problem solving assignment, Instead of trying to make a typical case study, I decided to make this version of poker, specifically my take on an already existing version of poker called "Choice Poker".
 
+# Files 
+1. main_engine.py - Handles deck generation, shuffling, and hand-sum calculations.
+2. wallet.py - Manages the games mathematics
+3. wallet.txt - Temporary storage of balance of user to log into the scoreboard
+4. game.py - The main controller handling user input and the primary game loop.
+5. scores.csv - Excel spreadsheet log of scores.
+
 # How to start
 
 1. Add all the files into a folder and import them into vsc
