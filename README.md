@@ -18,3 +18,14 @@ How to play:
 5. Winner gets decided based on the above condition.
 6. All results are exported to a scores.csv file where they are saved.
 7. In case you lose all your chips, the computer gives you 1000 chips to continue playing.
+
+
+For the sum scores, since this is a form of poker, I've also added bonuses if  you get specific hands such as:
+1. +500 if Straight Flush(Same faces & consecutive order)
+2. +200 if Four of a kind (Four of the same face/number)
+3. +120 if Full House (Three of same + Two of same face/number)
+4. +85 if Flush (All same face)
+5. +70 if Straight (Consecutive numbers)
+6. +50 if Three of a kind (Three of same face/number)
+7. +20 if Two Pair (Two pairs of same face/number)
+8. +15 if Pair (Two same face/number)
