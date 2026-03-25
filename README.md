@@ -6,7 +6,7 @@ For my Programming for problem solving assignment, Instead of trying to make a t
 
 1. Add all the files into a folder and import them into vsc
 2. using the terminal, call the main_engine.py , wallet.py and game.py files into the terminal in the respective order.
-3. python main_engine.py --> --> python wallet.py --> python game.py
+3. python main_engine.py --> python wallet.py --> python game.py
 4. After game.py is called, the game starts.
 
 
