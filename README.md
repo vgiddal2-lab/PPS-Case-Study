@@ -17,7 +17,7 @@ For my Programming for problem solving assignment, Instead of trying to make a t
 4. After game.py is called, the game starts.
 
 
-How to play:
+# How to play:
 1. The game starts off by asking for your name.
 2. Then, the game shuffles and deals you 5 cards.
 3. Based on the rank of the card, the sum of the cards is totalled, but unlike normal poker, since you are betting, you are able to choose whether the winner needs to have the sum highest or sum lowest to win.
@@ -27,7 +27,7 @@ How to play:
 7. In case you lose all your chips, the computer gives you 1000 chips to continue playing.
 
 
-For the sum scores, since this is a form of poker, I've also added bonuses if  you get specific hands such as:
+# For the sum scores, since this is a form of poker, I've also added bonuses if  you get specific hands such as:
 1. +500 if Straight Flush(Same faces & consecutive order)
 2. +200 if Four of a kind (Four of the same face/number)
 3. +120 if Full House (Three of same + Two of same face/number)
