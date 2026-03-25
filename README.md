@@ -2,7 +2,7 @@
 
 For my Programming for problem solving assignment, Instead of trying to make a typical case study, I decided to make this version of poker, specifically my take on an already existing version of poker called "Choice Poker".
 
-# Development & Credits
+Development & Credits
 Timeline: ~2 weeks of development.
 Credits: Built with Gemini (AI) for the heavy lifting and debugging the logic I couldn't wrap my head around.
 
