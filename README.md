@@ -1,6 +1,6 @@
 # PPS-Case-Study
 
-For my Programming for problem solving assignment, Instead of trying to make a typical case study, I decided to make this version of poker, specifically my take on an already existing version of poker called "Choice Poker".
+For my Programming For Problem Solving assignment, Instead of trying to make a typical case study, I decided to make this version of poker, specifically my take on an already existing version of poker called "Choice Poker".
 
 Development & Credits
 Timeline: ~2 weeks of development.
